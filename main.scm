@@ -79,12 +79,33 @@
     ( h2j-Dununba1-Bell          108 "Dununba1 Bell"              )
     ( h2j-Dununba1-Bell-Mute     109 "Dununba1 Bell Mute"         )))
 
+(define (init-h2quasijazzer-variables drumkit)
+  ; variables
+  (for-each (lambda (x)
+              (eval (list 
+                      'define 
+                      (list-ref x 0)
+                      (list-ref x 1))))
+            drumkit ))
+
+(define (init-h2quasijazzer-incremental-symbols kawapad drumkit)
+  (let* ((link (lambda(x y)
+                 (kawapad:textual-increment:add-incremental-symbol (car x) (car y)))))
+    (let ((last-elem #f))
+      (for-each (lambda (curr-elem)
+                  (if last-elem
+                    ;then
+                    (link last-elem curr-elem)
+                    ;else
+                    )
+                  (set! last-elem curr-elem)) drumkit)
+      (link (last drumkit ) (first drumkit)))))
 
 
 ;; remote-port-id is usually ""
 (define (h2j-start local-id local-port-id remote-id remote-port-id )
   (open-output local-port-id )
-  (let ((proc (newp-add (newp "hydrogen" "--song" "./h2-drumkit.h2song" ))))
+  (let ((proc (newp-add (newp dir: #!current-dir "hydrogen" "--song" "h2jazzy.h2song" ))))
     (sleep 1000)
     (connect 
       (string-concatenate (list local-id ":" local-port-id) )
@@ -95,9 +116,10 @@
 
 (inst-init h2j-drumkit (current-kawapad))
 
+; ## How to Use ##
 ; (open "hello")
 ; (define h2 (h2j-start "hello" "foo" "hydrogen-midi" "RX"))
-
-
+; (h2)
+; (close)
 
 ; vim: filetype=scheme expandtab :

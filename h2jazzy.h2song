@@ -25,7 +25,7 @@
   <instrument>
    <id>34</id>
    <name>Hi Hat Free</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.8</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -145,7 +145,7 @@
   <instrument>
    <id>33</id>
    <name>Hi Hat Opened</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.88</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -316,7 +316,7 @@
   <instrument>
    <id>54</id>
    <name>SB HatBrushOpA1</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -470,7 +470,7 @@
   <instrument>
    <id>8</id>
    <name>SB HatBrushChk</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -556,7 +556,7 @@
   <instrument>
    <id>6</id>
    <name>SB HatBrushClA1</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -710,7 +710,7 @@
   <instrument>
    <id>55</id>
    <name>SB HatBrushSplA1</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -796,7 +796,7 @@
   <instrument>
    <id>74</id>
    <name>Sabian Hat Semi-Open</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.69</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -916,7 +916,7 @@
   <instrument>
    <id>71</id>
    <name>Sabian Hat Pedal</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.685345</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -1036,7 +1036,7 @@
   <instrument>
    <id>73</id>
    <name>Sabian Hat Swish</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.44431</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -1156,7 +1156,7 @@
   <instrument>
    <id>72</id>
    <name>Sabian Hat Choke</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -1276,7 +1276,7 @@
   <instrument>
    <id>28</id>
    <name>Sabian Hat Open</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.698276</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -1396,7 +1396,7 @@
   <instrument>
    <id>47</id>
    <name>SB Snr7BrusH</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -1550,7 +1550,7 @@
   <instrument>
    <id>61</id>
    <name>SB Snr7BrusPA2</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -1602,7 +1602,7 @@
   <instrument>
    <id>62</id>
    <name>SB Snr7BrusPA3</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -1654,7 +1654,7 @@
   <instrument>
    <id>63</id>
    <name>SB Snr7BrusPA4</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -1706,7 +1706,7 @@
   <instrument>
    <id>64</id>
    <name>SB Snr7BrusPA5</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -1758,7 +1758,7 @@
   <instrument>
    <id>60</id>
    <name>SB Snr7BrusPA1</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -1810,7 +1810,7 @@
   <instrument>
    <id>65</id>
    <name>SB Snr7BrusPA6</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -1862,7 +1862,7 @@
   <instrument>
    <id>66</id>
    <name>SB Snr7BrusPA7</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -1914,7 +1914,7 @@
   <instrument>
    <id>1</id>
    <name>Stick</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.69</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -1966,7 +1966,7 @@
   <instrument>
    <id>31</id>
    <name>Snare Dry</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.8</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -2137,7 +2137,7 @@
   <instrument>
    <id>32</id>
    <name>Snare</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.84</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -2308,7 +2308,7 @@
   <instrument>
    <id>78</id>
    <name>Snare</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -2411,7 +2411,7 @@
   <instrument>
    <id>2</id>
    <name>Snare Jazz</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -2463,7 +2463,7 @@
   <instrument>
    <id>94</id>
    <name>snare 1</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>HipHop-1</drumkit>
    <volume>0.94</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -2515,7 +2515,7 @@
   <instrument>
    <id>19</id>
    <name>snare 2</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1.06034</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -2567,7 +2567,7 @@
   <instrument>
    <id>93</id>
    <name>snare 3</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>HipHop-1</drumkit>
    <volume>0.92</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -2619,7 +2619,7 @@
   <instrument>
    <id>18</id>
    <name>snare 4</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1.5</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -2671,7 +2671,7 @@
   <instrument>
    <id>88</id>
    <name>24-Snare-11</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Lightning1024</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -2723,7 +2723,7 @@
   <instrument>
    <id>86</id>
    <name>sn 606</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>3355606kit</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -2775,7 +2775,7 @@
   <instrument>
    <id>85</id>
    <name>sn 33</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>3355606kit</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -2827,7 +2827,7 @@
   <instrument>
    <id>84</id>
    <name>sn 55</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>3355606kit</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>0.8</pan_L>
@@ -2879,7 +2879,7 @@
   <instrument>
    <id>98</id>
    <name>32-SnareRoll-11</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Lightning1024</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -2931,7 +2931,7 @@
   <instrument>
    <id>100</id>
    <name>33-SnareRoll-21</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Lightning1024</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -2983,7 +2983,7 @@
   <instrument>
    <id>89</id>
    <name>909 clap</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Techno-1</drumkit>
    <volume>0.92</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -3035,7 +3035,7 @@
   <instrument>
    <id>90</id>
    <name>clap</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>HipHop-1</drumkit>
    <volume>0.79</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -3087,7 +3087,7 @@
   <instrument>
    <id>38</id>
    <name>Hand Clap</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1.02155</volume>
    <isMuted>false</isMuted>
    <pan_L>0.7</pan_L>
@@ -3139,7 +3139,7 @@
   <instrument>
    <id>92</id>
    <name>Classic-626 Clap</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Classic-626</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -3191,7 +3191,7 @@
   <instrument>
    <id>0</id>
    <name>Kick</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -3243,7 +3243,7 @@
   <instrument>
    <id>91</id>
    <name>kick 33</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>3355606kit</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -3295,7 +3295,7 @@
   <instrument>
    <id>87</id>
    <name>Kick Short</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>TR808EmulationKit</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -3347,7 +3347,7 @@
   <instrument>
    <id>16</id>
    <name>Kick Long</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -3399,7 +3399,7 @@
   <instrument>
    <id>56</id>
    <name>SB Kik18openA1</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -3536,7 +3536,7 @@
   <instrument>
    <id>57</id>
    <name>SB Kik22psoA1</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -3690,7 +3690,7 @@
   <instrument>
    <id>12</id>
    <name>Ride</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.8</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -3827,7 +3827,7 @@
   <instrument>
    <id>29</id>
    <name>Ride Bell</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.905172</volume>
    <isMuted>false</isMuted>
    <pan_L>0.96</pan_L>
@@ -3930,7 +3930,7 @@
   <instrument>
    <id>30</id>
    <name>Ride 2</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.943966</volume>
    <isMuted>false</isMuted>
    <pan_L>0.54</pan_L>
@@ -4050,7 +4050,7 @@
   <instrument>
    <id>21</id>
    <name>Ride Jazz</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.672414</volume>
    <isMuted>false</isMuted>
    <pan_L>0.0600001</pan_L>
@@ -4102,7 +4102,7 @@
   <instrument>
    <id>95</id>
    <name>18-Ride-11</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Lightning1024</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -4154,7 +4154,7 @@
   <instrument>
    <id>96</id>
    <name>19-Ride-21</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Lightning1024</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -4206,7 +4206,7 @@
   <instrument>
    <id>99</id>
    <name>34-Splash-11</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Lightning1024</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -4258,7 +4258,7 @@
   <instrument>
    <id>97</id>
    <name>20-Ride-31</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Lightning1024</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -4310,7 +4310,7 @@
   <instrument>
    <id>101</id>
    <name>21-RideBell-11</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Lightning1024</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -4362,7 +4362,7 @@
   <instrument>
    <id>14</id>
    <name>Ride Rock</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.8</volume>
    <isMuted>false</isMuted>
    <pan_L>0.58</pan_L>
@@ -4414,7 +4414,7 @@
   <instrument>
    <id>49</id>
    <name>SB Ride1Brush</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -4500,7 +4500,7 @@
   <instrument>
    <id>48</id>
    <name>SB Ride2Brush</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -4586,7 +4586,7 @@
   <instrument>
    <id>51</id>
    <name>SB Crash2BA1</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -4689,7 +4689,7 @@
   <instrument>
    <id>50</id>
    <name>SB Crash1BA1</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -4775,7 +4775,7 @@
   <instrument>
    <id>76</id>
    <name>Paiste Ride</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.633621</volume>
    <isMuted>false</isMuted>
    <pan_L>0.56</pan_L>
@@ -4895,7 +4895,7 @@
   <instrument>
    <id>40</id>
    <name>Paiste Ride Flink</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.517241</volume>
    <isMuted>false</isMuted>
    <pan_L>0.56</pan_L>
@@ -5015,7 +5015,7 @@
   <instrument>
    <id>104</id>
    <name>15-China-11</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Lightning1024</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -5067,7 +5067,7 @@
   <instrument>
    <id>103</id>
    <name>16-China-21</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Lightning1024</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -5119,7 +5119,7 @@
   <instrument>
    <id>102</id>
    <name>17-ChinaBell-21</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Lightning1024</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -5171,7 +5171,7 @@
   <instrument>
    <id>77</id>
    <name>Paiste Bell</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.534828</volume>
    <isMuted>false</isMuted>
    <pan_L>0.56</pan_L>
@@ -5291,7 +5291,7 @@
   <instrument>
    <id>75</id>
    <name>Sabian Crash</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.517241</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -5411,7 +5411,7 @@
   <instrument>
    <id>39</id>
    <name>Sabian Crash Flink</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.517241</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -5531,7 +5531,7 @@
   <instrument>
    <id>42</id>
    <name>Zildjian Splash</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.543103</volume>
    <isMuted>false</isMuted>
    <pan_L>0.98</pan_L>
@@ -5651,7 +5651,7 @@
   <instrument>
    <id>41</id>
    <name>Zildjian Splash Choke</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -5771,7 +5771,7 @@
   <instrument>
    <id>15</id>
    <name>Crash Jazz</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.77</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -5823,7 +5823,7 @@
   <instrument>
    <id>13</id>
    <name>Crash</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.69</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -5875,7 +5875,7 @@
   <instrument>
    <id>83</id>
    <name>Sizzle Cymbal</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.67</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -5961,7 +5961,7 @@
   <instrument>
    <id>82</id>
    <name>Crash Cymbal</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.61</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -6030,7 +6030,7 @@
   <instrument>
    <id>59</id>
    <name>SB Ride1BrushRoll2</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -6082,7 +6082,7 @@
   <instrument>
    <id>58</id>
    <name>SB Ride1BrushRoll</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -6134,7 +6134,7 @@
   <instrument>
    <id>23</id>
    <name>Djembe1 Tone</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.85</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -6186,7 +6186,7 @@
   <instrument>
    <id>24</id>
    <name>Djembe2 Slap</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.85</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -6238,7 +6238,7 @@
   <instrument>
    <id>26</id>
    <name>Djembe2 Bass</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.85</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -6290,7 +6290,7 @@
   <instrument>
    <id>80</id>
    <name>High Tom</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.85</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -6393,7 +6393,7 @@
   <instrument>
    <id>81</id>
    <name>Mid Tom</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.79</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -6496,7 +6496,7 @@
   <instrument>
    <id>79</id>
    <name>Floor Tom</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.84</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -6599,7 +6599,7 @@
   <instrument>
    <id>67</id>
    <name>SB TomB10in</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -6719,7 +6719,7 @@
   <instrument>
    <id>68</id>
    <name>SB TomB12in</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -6839,7 +6839,7 @@
   <instrument>
    <id>69</id>
    <name>SB TomB14in</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -6959,7 +6959,7 @@
   <instrument>
    <id>70</id>
    <name>SB TomB16in</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>1</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -7079,7 +7079,7 @@
   <instrument>
    <id>11</id>
    <name>Cowbell</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.8</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -7131,7 +7131,7 @@
   <instrument>
    <id>45</id>
    <name>Kenkeni1 Bell Hit</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.78</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -7183,7 +7183,7 @@
   <instrument>
    <id>46</id>
    <name>Kenkeni1 Bell Mute</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.84</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -7235,7 +7235,7 @@
   <instrument>
    <id>43</id>
    <name>Dununba1 Bell</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.85</volume>
    <isMuted>false</isMuted>
    <pan_L>0.96</pan_L>
@@ -7287,7 +7287,7 @@
   <instrument>
    <id>44</id>
    <name>Dununba1 Bell Mute</name>
-   <drumkit>h2jazzy</drumkit>
+   <drumkit>Ats's Jazz Kit 2</drumkit>
    <volume>0.85</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
