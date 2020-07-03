@@ -118,7 +118,7 @@
 
 ; ## How to Use ##
 ; (open "hello")
-; (define h2 (h2j-start "hello" "foo" "hydrogen-midi" "RX"))
+; (define h2 (h2j-start "hello" "h2" "hydrogen-midi" "RX"))
 ; (h2)
 ; (close)
 
